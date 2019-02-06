@@ -1,0 +1,19 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "th-dreamhouse",
+            "versionName": "Version 1.0",
+            "versionNumber": "1.0.0.NEXT"
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://resourceful-hawk-dl38wf-dev-ed.lightning.force.com",
+	"oauthLocalPort" : "1717",
+    "sourceApiVersion": "44.0",
+    "packageAliases": {
+        "th-dreamhouse": "0Ho1t000000GmjfCAC",
+        "th-dreamhouse@1.0.0-1": "04t1t000002knETAAY"
+    }
+}
